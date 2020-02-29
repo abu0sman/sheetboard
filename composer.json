@@ -1,0 +1,15 @@
+{
+    "name": "abu0sman/sheetboard",
+    "description": "sheet table component",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "abu0sman",
+            "email": "arc27@rambler.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
