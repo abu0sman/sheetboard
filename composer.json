@@ -2,7 +2,8 @@
     "name": "abu0sman/sheetboard",
     "description": "sheet table component",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "tecnickcom/tcpdf": "^6.3"
     },
     "license": "BSD-3-Clause",
     "authors": [
